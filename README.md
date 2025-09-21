@@ -22,12 +22,13 @@ Incluye personajes como **Aragorn**, **Legolas** y otros héroes, con atributos 
 
 Compilar desde la raíz del proyecto:
 
-javac src/juegoRol/*.java
+javac src/codigo/*.java
 
 
 Ejecutar el programa:
 
-java -cp src juegoRol.Main
+java -cp src codigo.Rol
+
 
 📂 Ejemplo de salida
 Aragorn ataca a Troll
