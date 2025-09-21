@@ -17,7 +17,7 @@ Incluye personajes como **Aragorn**, **Legolas** y otros héroes, con atributos 
 ## 🚀 Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/juego-rol-java.git
+git clone https://github.com/JorgeToquero/juego-rol-java.git
 
 
 Compilar desde la raíz del proyecto:
