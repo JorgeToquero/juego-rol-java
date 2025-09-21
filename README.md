@@ -25,6 +25,7 @@ java -cp src juegoRol.Main
 
 
 📂 Ejemplo de salida
+
 Aragorn ataca a Troll
 Troll recibe 75 puntos de daño y tiene 70 puntos de vida
 Legolas ataca a Urukhai
