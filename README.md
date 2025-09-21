@@ -13,21 +13,22 @@ Incluye personajes como **Aragorn**, **Legolas** y otros héroes, con atributos 
 - Uso de `toString()` para mostrar el estado de cada personaje.
 
 ---
+
 ## 🚀 Ejecución
 
 1) Clonar:
 ```bash
 git clone https://github.com/JorgeToquero/juego-rol-java.git
 
+
 Compilar (desde la raíz):
 
 javac src/codigo/*.java
 
+
 Ejecutar:
 
 java -cp src codigo.Rol
-
-
 📂 Ejemplo de salida
 Aragorn ataca a Troll
 Troll recibe 75 puntos de daño y tiene 70 puntos de vida
