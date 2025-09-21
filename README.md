@@ -15,20 +15,20 @@ Incluye personajes como **Aragorn**, **Legolas** y otros héroes, con atributos 
 ---
 
 ## 🚀 Ejecución
-1. Clonar el repositorio:
-   ```bash
+
+1) Clonar:
+```bash
 git clone https://github.com/JorgeToquero/juego-rol-java.git
+Compilar (desde la raíz):
 
-
-Compilar desde la raíz del proyecto:
-
+bash
+Copiar código
 javac src/codigo/*.java
+Ejecutar:
 
-
-Ejecutar el programa:
-
+bash
+Copiar código
 java -cp src codigo.Rol
-
 
 📂 Ejemplo de salida
 Aragorn ataca a Troll
