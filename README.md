@@ -13,11 +13,6 @@ Incluye personajes como **Aragorn**, **Legolas** y otros héroes, con atributos 
 - Uso de `toString()` para mostrar el estado de cada personaje.
 
 ---
-
-## 🚀 Ejecución
-
-1) Clonar:
-```bash
 git clone https://github.com/JorgeToquero/juego-rol-java.git
 
 javac src/codigo/*.java
@@ -54,5 +49,6 @@ Implementar inventario y objetos.
 
 Crear interfaz gráfica con Swing/JavaFX.
 
+Crear interfaz gráfica con Swing/JavaFX.
 
 
