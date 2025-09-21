@@ -43,21 +43,13 @@ Legolas ataca a Troll
 🛠️ Tecnologías
 
 Java 23
+
 Programación Orientada a Objetos (POO)
-
-
-
 
 🔮 Posibles mejoras
 
-Añadir más personajes de la saga.
+Guardar partidas en fichero o base de datos.
 
-Guardar partidas en fichero.
+Añadir inventario y objetos.
 
-Implementar inventario y objetos.
-
-Crear interfaz gráfica con Swing/JavaFX.
-
-Crear interfaz gráfica con Swing/JavaFX.
-
-
+Implementar interfaz gráfica con Swing o JavaFX.
