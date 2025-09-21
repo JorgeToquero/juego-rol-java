@@ -12,7 +12,7 @@ Incluye personajes como **Aragorn**, **Legolas** y otros héroes, con atributos 
 - Métodos sobrescritos para ataques personalizados.  
 - Uso de `toString()` para mostrar el estado de cada personaje.
 
----
+```bash
 git clone https://github.com/JorgeToquero/juego-rol-java.git
 
 Compilar:
