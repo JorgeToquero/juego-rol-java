@@ -20,6 +20,8 @@ Incluye personajes como **Aragorn**, **Legolas** y otros héroes, con atributos 
 ```bash
 git clone https://github.com/JorgeToquero/juego-rol-java.git
 
+javac src/codigo/*.java
+
 
 📂 Ejemplo de salida
 Aragorn ataca a Troll
