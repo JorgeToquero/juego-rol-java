@@ -15,7 +15,13 @@ Incluye personajes como **Aragorn**, **Legolas** y otros héroes, con atributos 
 ---
 git clone https://github.com/JorgeToquero/juego-rol-java.git
 
-javac src/codigo/*.java
+Compilar:
+javac src/juegoRol/*.java
+
+Ejecutar:
+java -cp src juegoRol.Main
+
+
 
 
 📂 Ejemplo de salida
