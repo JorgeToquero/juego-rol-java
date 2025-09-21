@@ -43,8 +43,8 @@ Legolas ataca a Troll
 🛠️ Tecnologías
 
 Java 23
-
 Programación Orientada a Objetos (POO)
+
 
 🔮 Posibles mejoras
 
