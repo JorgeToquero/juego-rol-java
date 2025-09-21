@@ -15,9 +15,11 @@ Incluye personajes como **Aragorn**, **Legolas** y otros héroes, con atributos 
 ```bash
 git clone https://github.com/JorgeToquero/juego-rol-java.git
 
+```bash
 Compilar:
 javac src/juegoRol/*.java
 
+```bash
 Ejecutar:
 java -cp src juegoRol.Main
 
